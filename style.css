@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+}
+
+.avatar {
+    width: 300px;
+}
+
+.card {
+    background-color: lightblue;
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    border-bottom: 5px solid purple;
+    display: flex;
+    justify-content: space-around;
+}
+
+.description {
+
+    padding: 5px;
+    text-align: center;
+}
